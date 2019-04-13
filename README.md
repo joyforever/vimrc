@@ -1,0 +1,2 @@
+# vimrc
+Tiny VIM configuration.
