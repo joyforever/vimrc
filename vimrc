@@ -34,7 +34,8 @@ set number
 " 显示光标当前位置
 set ruler
 " Use a visual bell instead of beeping.
-set visualbell
+set novisualbell
+
 
 " Scroll {{{
 "set scroll=10 " 指定CTRL-U和CTRL-D滚动的行数，默认为屏幕一半行数
