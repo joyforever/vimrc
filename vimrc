@@ -21,6 +21,7 @@ Plugin 'vim-airline/vim-airline-themes'
 Plugin 'tpope/vim-fugitive'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'chr4/nginx.vim'
+Plugin 'vhdirk/vim-cmake'
 call vundle#end()
 filetype plugin indent on
 " }}}
